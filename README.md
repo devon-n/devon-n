@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @devon-n
-- 👀 I’m interested in machine learning and solidity smart contracts
-- 🌱 I’m currently learning reinforcement learning and smart contract development
-- 💞️ I’m looking to collaborate on sports betting and any smart contract developments
-- 📫 How to reach me devnathan94@gmail.com
+Artificial Intelligence and Blockchain Development
